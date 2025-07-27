@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @sabahat03
-- 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning App Development in Flutter
 - 📫 Reach me at sabahatjaffar415@gmail.com
